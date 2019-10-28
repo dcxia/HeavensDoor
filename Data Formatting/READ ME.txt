@@ -1,0 +1,7 @@
+Reddit Folder:
+
+Contains Reddit data and powershell script used to concat a bunch of different csv files into a single csv file.
+
+Twitter Folder:
+
+Contains Twitter data and powershell script used to concat a bunch of different csv files into a single csv file.
